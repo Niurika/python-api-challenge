@@ -28,9 +28,10 @@ Linear regression for each relationship
 
 ## Pt. 2 - VacationPy:
 A heat map that displays the humidity for every city from Part 1. DataFrame is narrowed down to ideal weather conditions. 
-* Use Google Places API to find the first hotel for each city located within 5,000 meters of your coordinates.
+* Uses Google Places API to find the first hotel for each city located within 5,000 meters of your coordinates.
 
-* Plot the hotels on top of the humidity heatmap, with each pin containing the **Hotel Name**, **City**, and **Country**
+* Plots the hotels on top of the humidity heatmap, with each pin containing the **Hotel Name**, **City**, and **Country**
+<img width="837" alt="Screen Shot 2023-03-22 at 1 31 17 AM" src="https://user-images.githubusercontent.com/110379358/226820737-f242aa32-198c-4022-9666-e8d1c5bff823.png">
 
 ## Built With: 
 * Jupyter notebook
