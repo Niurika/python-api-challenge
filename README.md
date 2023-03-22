@@ -33,5 +33,5 @@ A heat map that displays the humidity for every city from Part 1. DataFrame is n
 * Plot the hotels on top of the humidity heatmap, with each pin containing the **Hotel Name**, **City**, and **Country**
 
 ## Built With: 
-*Jupyter notebook
-*Matplotlib
+* Jupyter notebook
+* Matplotlib
